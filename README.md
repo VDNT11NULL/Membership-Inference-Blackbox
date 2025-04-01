@@ -113,7 +113,7 @@ Two approaches are explored for optimizing noise vectors:
 - Directly optimize the noise vector Z to maximize membership confidence
 - Loss function: `L = BCE(MembershipClassifier(G_v(Z)), [0, 1])`
 
-![Noise Vector Optimization](img/noise_optimization.png)
+![Noise Vector Optimization](assets/noise_optimization.png)
 
 ## Results and Analysis
 
